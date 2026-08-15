@@ -1,0 +1,1 @@
+# Code-for-plots-of-products-of-point-counts-for-higher-genus-curves-over-finite-fields-
